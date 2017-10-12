@@ -1,5 +1,5 @@
-# XFilesharing
-With this mod you will be able to accept payments directly on your site using PayChannel payment gateway.
+# XFileSharing
+This plugin allows you to accept payments directly on your XFileSharing website with PayChannel payment gateway.
 
 ## Installation
 
